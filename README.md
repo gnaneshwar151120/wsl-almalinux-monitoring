@@ -31,7 +31,7 @@ WSL AlmaLinux → Telegraf → InfluxDB on Windows → Grafana on Windows
 
 ## Dashboard Preview
 
-![Dashboard Overview]([screenshots/full%20dashboard.jpeg])
+![Dashboard Overview]([Screenshots/full%20dashboard.jpeg])
 
 ## Key Features
 
@@ -43,7 +43,7 @@ WSL AlmaLinux → Telegraf → InfluxDB on Windows → Grafana on Windows
 
 ## Project Architecture
 
-![Architecture](architecture/architecture.png)
+![Architecture](Architecture/architecture.png)
 
 ## Setup Summary
 
